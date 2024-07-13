@@ -3,4 +3,4 @@ A Python alarm which knows how much time you are spending in procrastination but
 
 To get started with the program, install these requirements -
 
-`pip install playsound plyer`
+`pip install playsound datetime`
